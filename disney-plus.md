@@ -1,0 +1,21 @@
+# Disney+
+
+disney.demdex.net
+braze.com
+disney-plus.net
+disney-vod-na-west-1.top.comcast.net
+disneyplus.com
+disneyplus.disney.co.jp
+disneystreaming.service-now.com
+dssott.com
+search-api-disney.bamgrid.com
+starott.com
+bamgrid.com
+bam.nr-data.net
+cdn.registerdisney.go.com
+cws.conviva.com
+d9.flashtalking.com
+disney-portal.my.onetrust.com
+disneyplus.bn5x.net
+js-agent.newrelic.com
+adobedtm.com
