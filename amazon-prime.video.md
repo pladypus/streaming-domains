@@ -1,3 +1,3 @@
 # Amazon Prime Video
 
-amazon.com
+- amazon.com

@@ -1,4 +1,4 @@
 # HBO Max
 
-hbomax.com
-discomax.com
+- hbomax.com
+- discomax.com

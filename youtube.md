@@ -1,3 +1,3 @@
 # YouTube
 
-youtube.com
+- youtube.com
