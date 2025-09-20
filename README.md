@@ -2,6 +2,8 @@
 
 This is a collection of domains used by the various streaming services. The aim of this is to provide a centralized list of domains that can be used to build routing policies for various streaming services.
 
+For a reference guide on using these domains with a vpn in Unifi see this reddit post: https://www.reddit.com/r/Ubiquiti/comments/13tnh2s/vpn_traffic_management_with_disney_and_netflix/
+
 ## Included Services
 
 - [Netflix](./netflix.md)
